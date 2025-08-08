@@ -8,7 +8,7 @@ If you like this tool, then please tweet, like or my website http://davidejones.
 
 What is the Flare 3d Blender tool?
 ----------------------------------------
-This python script can be installed as an addon to Blender. Once installed it will allow Blender to import and export flare3d files (.zf3d). See http://www.flare3d.com/ for more information on the file types and its uses
+This python script can be installed as an addon to Blender. Once installed it will allow Blender to import and export flare3d files (.zf3d). See [(http://www.flare3d.com/https://web.archive.org/web/20231225152115/https://www.flare3d.com/)] for more information on the file types and its uses
 
 ##Functionality
 
