@@ -1,14 +1,14 @@
-Flare 3d Blender Tool
+Flare 3D Blender Tool
 ===========================
 
 Created by David E Jones, [http://davidejones.com](http://davidejones.com)
 Follow me on twitter [@david3jones](https://twitter.com/david3jones)
 
-If you like this tool, then please tweet, like or googleplus my website http://davidejones.com
+If you like this tool, then please tweet, like or my website http://davidejones.com
 
-What is the Flare 3d blender tool?
+What is the Flare 3d Blender tool?
 ----------------------------------------
-This python script can be installed as an addon to blender. Once installed it will allow blender to import and export flare3d files (.zf3d). See http://www.flare3d.com/ for more information on the file types and its uses
+This python script can be installed as an addon to Blender. Once installed it will allow Blender to import and export flare3d files (.zf3d). See http://www.flare3d.com/ for more information on the file types and its uses
 
 ##Functionality
 
@@ -18,7 +18,7 @@ This python script can be installed as an addon to blender. Once installed it wi
 Installation Notes
 ------------------
 
-1. Open blender and go to File->User Preferences
+1. Open Blender and go to File->User Preferences
 2. Click the Addons tab
 3. Click the install addon button at the bottom of this window
 4. Browse to the io_alternativa3d_tools.py file
